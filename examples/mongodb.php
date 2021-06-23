@@ -1,6 +1,6 @@
 <?php
 /*
- * MongoDB connection, insert, and iteration example
+ * MongoDB connection, insert, and iteration examples
  */
 try
 {
